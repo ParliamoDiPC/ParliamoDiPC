@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Ciao!
 
-<!--
-**ParliamoDiPC/ParliamoDiPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://img.shields.io/discord/733421239401447464) ![](https://img.shields.io/twitter/follow/ParliamoDiPC?label=Follow) ![](https://img.shields.io/github/followers/ParliamoDiPC?label=Follow)
 
-Here are some ideas to get you started:
+Sono [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC) e sono (circa) uno YouTuber e uno sviluppatore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Progetti: [**Fasm.ga**](https://www.fasm.ga) e [**HackerCat**](https://www.hackercat.cf)
+
+🇮🇹 Sono italiano :pizza:
+
+🖥 Programmo in **Python** e in **Node.js**
+
+*💾 Adoro inserire i floppy nel lettore floppy*
+
+🌐 [**Il mio sito ufficiale**](https://parliamodipc.repl.co)
