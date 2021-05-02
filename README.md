@@ -10,6 +10,4 @@ Sono [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC) e sono (circa) uno
 
 🖥 Programmo in **Python** e in **Node.js**
 
-*💾 Adoro inserire i floppy nel lettore floppy*
-
 🌐 [**Il mio sito ufficiale**](https://parliamodipc.repl.co)
