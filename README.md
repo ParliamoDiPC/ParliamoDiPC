@@ -4,7 +4,7 @@
 
 Sono [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC) e sono (circa) uno YouTuber e uno sviluppatore.
 
-💻 Progetti: [**Fasm.ga**](https://www.fasm.ga) e [**HackerCat**](https://www.hackercat.cf)
+💻 Progetti: [**Fasm.ga**](https://www.fasmga.org) e [**HackerCat**](https://www.hackercat.cf)
 
 🇮🇹 Sono italiano :pizza:
 
