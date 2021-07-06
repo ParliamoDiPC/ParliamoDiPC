@@ -1,13 +1,13 @@
-### 👋 Ciao!
+### 👋 Hi!
 
 ![Discord](https://img.shields.io/discord/733421239401447464) ![](https://img.shields.io/twitter/follow/ParliamoDiPC?label=Follow) ![](https://img.shields.io/github/followers/ParliamoDiPC?label=Follow)
 
-Sono [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC) e sono (circa) uno YouTuber e uno sviluppatore.
+I'm [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC), a developer and a small YouTuber.
 
-💻 Progetti: [**Fasm.ga**](https://www.fasmga.org) e [**HackerCat**](https://www.hackercat.cf)
+💻 Projects: [**Fasm.ga**](https://www.fasmga.org) and [**HackerCat**](https://www.hackercat.cf) (dead)
 
-🇮🇹 Sono italiano :pizza:
+🇮🇹 I'm Italian :pizza:
 
-🖥 Programmo in **Python** e in **Node.js**
+🖥 I can code in **Python**, in **Node.js** and in **Visual Basic .NET** and I know **CSS**, **HTML**, some **JS**, **Batch** and some **UNIX things**
 
-🌐 [**Il mio sito ufficiale**](https://parliamodipc.repl.co)
+🌐 [**My site**](https://parliamodipc.fasmga.org)
