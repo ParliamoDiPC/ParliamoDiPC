@@ -13,6 +13,6 @@ I'm [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC), Fasm.ga's owner.
 
 🇮🇹 I'm Italian :pizza:
 
-🖥 I code in **Python** and in **Node.js** and I know **Visual Basic .NET**, **CSS**, **HTML**, some **JS** and some **UNIX things**
+🖥 I code in **Python**, in **Node.js** and in **Java** and I know **Visual Basic .NET**, **CSS**, **HTML**, some **JS** and some **UNIX things**
 
 🌐 [**My site**](https://parliamodipc.github.io)
