@@ -7,12 +7,14 @@
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fasmga&repo=fasmga&theme=dark&show_icons=true) ![](https://github-readme-stats.vercel.app/api/pin/?username=fasmga&repo=api&theme=dark&show_icons=true)
 
-I'm [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC), Fasm.ga's owner.
+I'm [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC), and I own @paperboatcc.
 
-💻 Projects: [**Fasm.ga**](https://www.fasmga.org)
+💻 Projects: [**Paperboat**](https://paperboat.cc), which is divided in many projects
 
 🇮🇹 I'm Italian :pizza:
 
-🖥 I code in **Python**, in **Node.js** and in **Java** and I know **Visual Basic .NET**, **CSS**, **HTML**, some **JS** and some **UNIX things**
+🖥 I have a mediocre-good knowledge of many languages, the ones I know better are Node.js and Python. I am also able to design some pages with HTML, CSS and a bit of vanilla JS.
 
-🌐 [**My site**](https://parliamodipc.github.io)
+🌐 [**My blog**](https://parliamodipc.github.io) [I post twice a year, maybe.]
+
+❌ I am horrible at commit messages
