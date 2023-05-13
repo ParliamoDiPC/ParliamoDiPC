@@ -10,4 +10,4 @@ I'm [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC), and I founded @cod
 
 🖥 I have a mediocre-good knowledge of many languages, the ones I know better are Node.js and Python. I am also able to design some pages with HTML, CSS and JS. I am learning C# and it is a great language.
 
-↔ Getting better at commit messages
+✔️ I learned how to use git lets go
