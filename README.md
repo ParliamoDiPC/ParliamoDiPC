@@ -1,11 +1,27 @@
-### 👋 Hi!
+### 👋 Welcome!
 
-![](https://img.shields.io/youtube/channel/subscribers/UCs7k6KpxYqlcwqrdDdsop-Q?color=red&logo=youtube&style=for-the-badge) ![](https://img.shields.io/discord/733421239401447464?style=for-the-badge&logo=discord&color=blueviolet) ![](https://img.shields.io/twitter/follow/ParliamoDiPC?label=Follow&style=for-the-badge&logo=twitter&color=blue) ![](https://img.shields.io/github/followers/ParliamoDiPC?label=Follow&style=for-the-badge&logo=github&color=black)
+I'm **Parliamo**/ParliamoDiPC, and I'm a """developer""" that likes to work on whatever is on my mind at a given time. I mostly work on websites.
 
-I'm [**ParliamoDiPC**](https://www.youtube.com/ParliamoDiPC), and I founded @coderkick.
+💻 Projects: [**Coderkick Forums**](https://coderkick.com), a user-centered website based on sharing one's own projects hoping for someone to join them in a common goal.
 
-💻 Projects: [**Coderkick**](https://coderkick.com)
+#### Knowledge (not really advanced on anything; sorted by best to worst)
+  
+##### Programming Languages
+  - **PHP**
+  - **Webdev Trio** (HTML/CSS/JS)
+  - **Python**
+  - **JavaScript/Node**
 
-🇮🇹 I'm Italian :pizza:
+##### Databases
+  - **MongoDB**
 
-🖥 I have a mediocre-good knowledge of many languages, the ones I know better are Node.js and Python. I am also able to design some pages with HTML, CSS and JS, along with PHP. I am learning C# and it is a great language.
+##### Other (not sorted)
+  - **Linux**
+  - **Git**
+  - **Not depending on AI**
+    - _Proud documentation reader!_
+  - [**Geometry Dash 🔥🔥😎😎😎😎🔥🔥**](https://gdbrowser.com/u/Parliamo)
+
+#### Learning: C++
+
+Visit my website: **https://parliamo.me**!
